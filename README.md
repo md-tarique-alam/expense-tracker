@@ -5,6 +5,10 @@ This app helps users track daily expenses, manage spending, and view total expen
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Click here to view the project](https://md-tarique-alam.github.io/expense-tracker)
+
 ## 🚀 Features
 
 * Add expenses with date, title, amount, and category
