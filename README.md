@@ -11,11 +11,11 @@ This app helps users track daily expenses, manage spending, and view total expen
 
 ## 🚀 Features
 
-* Add expenses with date, title, amount, and category
-* Delete expenses easily
-* Real-time total expense calculation
-* Data stored in **localStorage** (persists after refresh)
-* Clean and responsive UI
+* Add and manage daily expenses  
+* Delete expenses with instant UI update  
+* Automatic calculation of total expenses  
+* Persistent data storage using localStorage  
+* Responsive and clean user interface    
 
 ---
 
