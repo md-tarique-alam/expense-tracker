@@ -26,8 +26,8 @@ This app helps users track daily expenses, manage spending, and view total expen
 ## 📸 Demo
 
 <p align="center">
-  <img src="images/screenshot.png" width="45%" />
-  <img src="images/screenshot2026.png" width="45%" />
+  <img src= "images/screenshot2026.png" width="45%" />
+  <img src= "images/screenshot.png" width="45%" />
 </p>
 
 ---
